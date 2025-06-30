@@ -37,7 +37,7 @@ Installation Instructions
 
 1. Clone the repository:
 
-git clone https://github.com/yourusername/atm-system.git
+git clone https://github.com/satya9399/ATM-system
 
 
 2. Navigate to the project directory:
